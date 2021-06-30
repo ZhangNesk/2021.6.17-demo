@@ -1,0 +1,26 @@
+{
+  "name": "douban",
+  "version": "1.0.0",
+  "description": "1",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "eslint-plugin-react": "^7.24.0",
+    "less": "^4.1.1",
+    "less-loader": "^9.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhangNesk/2021.6.17-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhangNesk/2021.6.17-demo/issues"
+  },
+  "homepage": "https://github.com/ZhangNesk/2021.6.17-demo#readme"
+}

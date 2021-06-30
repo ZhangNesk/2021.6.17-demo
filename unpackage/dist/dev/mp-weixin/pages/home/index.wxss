@@ -1,0 +1,90 @@
+.header {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-bottom: 1px solid #eee;
+  height: 95rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 0 36rpx;
+}
+.header ._span {
+  font-weight: 700;
+  color: #00b600;
+  font-size: 40rpx;
+}
+.header icon {
+  margin-left: 28rpx;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.header button {
+  background-color: #42bd56;
+  color: #fff;
+  height: 58rpx;
+  width: 200rpx;
+  border-radius: 8rpx;
+  line-height: 58rpx;
+  marigin-right: 36rpx;
+}
+.movie-item {
+  padding: 0 36rpx;
+}
+.movie-item .title {
+  font-size: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 88rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.movie-item .title .more {
+  font-size: 28rpx;
+  color: #00b600;
+}
+.page-section-spacing {
+  margin-top: 60rpx;
+}
+.scroll-view_H {
+  white-space: nowrap;
+}
+.scroll-view-item {
+  height: 300rpx;
+}
+.scroll-view-item_H {
+  display: inline-block;
+  margin-right: 18rpx;
+  margin-top: 18rpx;
+  width: 200rpx;
+}
+.scroll-view-item_H ._img {
+  width: 200rpx;
+  height: 286rpx;
+}
+.scroll-view-item_H ._p {
+  text-align: center;
+}
+.scroll-view-item_H .rating {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.scroll-view-item_H .rating .stars ._img {
+  height: 20rpx;
+  width: 20rpx;
+}
+.scroll-view-item_H .rating ._span {
+  color: #aaa;
+  margin-left: 10rpx;
+}
+
